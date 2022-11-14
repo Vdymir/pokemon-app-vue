@@ -1,4 +1,4 @@
-# 02-pokemon-app
+# pokemon-app
 
 ## Project setup
 ```
